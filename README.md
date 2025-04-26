@@ -92,7 +92,7 @@ int main() {
 
     return 0;
 }
-
+```
 
 
 ## OUTPUT:
@@ -157,7 +157,8 @@ int main() {
 
 
 ## OUTPUT:
-```Enter the first number: 15
+```
+Enter the first number: 15
 Enter the second number: 8
 Addition = 23
 Subtraction = 7
